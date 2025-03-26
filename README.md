@@ -53,7 +53,7 @@ This repository provides an online inference WebXR backend for [GestureTrainer](
    - On your headset’s browser, open `https://localhost:3000`. You should see a button labeled **Enter VR** at the bottom of the scene. Enter VR mode to begin online gesture inference.  
    - A successful run should look like this:  
      
-     ![image](https://github.com/user-attachments/assets/568fdf85-61c1-4b58-ab2f-81d2014eed6a)
+   ![image](https://github.com/user-attachments/assets/d831d744-5ff8-41c3-bce3-2036185e336b)
 
 ### Reference
 This project builds upon work from [threejs-webxr-hands-example](https://github.com/vrmeup/threejs-webxr-hands-example) to create the virtual scene. Many thanks to the contributors of that project!
